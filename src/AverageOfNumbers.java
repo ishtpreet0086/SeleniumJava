@@ -4,9 +4,7 @@ public class AverageOfNumbers {
 	public static void main(String[] args) {
 
 		// average of numbers from 30 to 60
-		// (30+31+....60)/n
-		//Test line
-		//Test line 2
+
 		int sum = 0;
 		int count = 0;
 		
